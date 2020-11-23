@@ -5,9 +5,9 @@ This is done as for the MCA 5
 ```
 Name: Subhra Samir Kundu
 ```
-[s2kthegeek.github.io/]
-[subhrasamirk@gmail.com]
-[https://www.youtube.com/c/SubhraTheGeek]
+[Website](https://s2kthegeek.github.io/)
+[Email](subhrasamirk@gmail.com)
+[YouTube](https://www.youtube.com/c/SubhraTheGeek)
 
 
 ### To start the app:
