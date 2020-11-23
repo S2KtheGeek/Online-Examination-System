@@ -1,12 +1,14 @@
 # This is a Simple project to show CURD feature using a database
-This is done as for the MCA 5
+This is done as for the Software Project Planning Subject in MCA 5
 ## Author
 
 ```
 Name: Subhra Samir Kundu
 ```
 [Website](https://s2kthegeek.github.io/)
+
 [Email](subhrasamirk@gmail.com)
+
 [YouTube](https://www.youtube.com/c/SubhraTheGeek)
 
 
@@ -23,9 +25,11 @@ Name: Subhra Samir Kundu
 
 ### The App is made with streamlit
 To run the app
+
 ```streamlit run qp_v2.py```
 
 ### Login/Testing Credentials
+
 ```
 Username: qw
 Password: 12345
