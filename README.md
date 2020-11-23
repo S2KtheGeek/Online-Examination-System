@@ -1,13 +1,13 @@
-#This is a Simple project to show CURD feature using a database
+# This is a Simple project to show CURD feature using a database
 This is done as for the MCA 5
 ## Author
 
 ```
 Name: Subhra Samir Kundu
 ```
-[Check out My website]: s2kthegeek.github.io/
-[Email]: subhrasamirk@gmail.com
-[Youtube]: https://www.youtube.com/c/SubhraTheGeek
+[Check out My website]:s2kthegeek.github.io/
+[Email]:subhrasamirk@gmail.com
+[Youtube]:https://www.youtube.com/c/SubhraTheGeek
 
 
 ### To start the app:
