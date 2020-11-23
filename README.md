@@ -4,10 +4,11 @@ This is done as for the MCA 5
 
 ```
 Name: Subhra Samir Kundu
+```
 [Check out My website]: s2kthegeek.github.io/
 [Email]: subhrasamirk@gmail.com
 [Youtube]: https://www.youtube.com/c/SubhraTheGeek
-```
+
 
 ### To start the app:
 
@@ -22,6 +23,7 @@ Name: Subhra Samir Kundu
 
 ### The App is made with streamlit
 To run the app
+
     ```streamlit run qp_v2.py```
 
 ### Login/Testing Credentials
